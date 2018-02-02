@@ -1,0 +1,15 @@
+adium-theme-ubuntu==0.3.4
+chardet==2.3.0
+cliapp==1.20160109
+click==6.7
+Flask==0.12.2
+gunicorn==19.7.1
+itsdangerous==0.24
+Jinja2==2.10
+Markdown==2.6.6
+MarkupSafe==1.0
+Pygments==2.1
+PyYAML==3.11
+ttystatus==0.32
+unity-lens-photos==1.0
+Werkzeug==0.14.1
